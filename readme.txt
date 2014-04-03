@@ -5,7 +5,7 @@ Author URI: http://toolstack.com
 Tags: user profile
 Requires at least: 3.4.0
 Tested up to: 3.8.1
-Stable tag: 0.1
+Stable tag: 1.0
 License: GPL2
 
 Adds links to the top of the user profile page for each of the sections in the profile.
@@ -32,10 +32,12 @@ Profile Links generates the jump list based on the H3 tags it finds in the profi
 1. Example of a profile with links.
 
 == Changelog ==
+= 1.0 =
+* Incremented version to 1.0.
 
 = 0.1 =
 * Initial release.
 
 == Upgrade Notice ==
-= 0.1 =
+= 1.0 =
 * None.

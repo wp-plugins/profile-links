@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Profile Links
-Version: 0.1
+Version: 1.0
 Plugin URI: http://toolstack.com/profile-links
 Author: Greg Ross
 Author URI: http://toolstack.com
@@ -16,7 +16,7 @@ Copyright (c) 2014 by Greg Ross
 This software is released under the GPL v2.0, see license.txt for details
 */
 
-define( 'ProfileLinksVersion', '0.1' );
+define( 'ProfileLinksVersion', '1.0' );
 
 /*
 	This function is called when a user edits/views their profile and creates the profile section links.

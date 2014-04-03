@@ -14,7 +14,7 @@ function ProfileLinks()
 		// If no id has been defined for the H3 tag, create one.
 		if( id == undefined ) { id = 'ProfileLink' + ( index + 1 ); option.attr( 'id', id ); }
 		
-		// If this isn't the first option, add a vertical seperator to the list.
+		// If this isn't the first option, add a vertical separator to the list.
 		if( index > 0 ) { OptionsList += ' | '; }
 		
 		// Add the current option to the list.
