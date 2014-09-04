@@ -4,7 +4,7 @@ Plugin URI: http://toolstack.com/profile-links
 Author URI: http://toolstack.com
 Tags: user profile
 Requires at least: 3.4.0
-Tested up to: 3.8.1
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPL2
 
