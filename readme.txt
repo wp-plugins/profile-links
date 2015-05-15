@@ -33,9 +33,11 @@ Profile Links generates the jump list based on the H3 tags it finds in the profi
 
 == Changelog ==
 = 1.0 =
+* Release date: April 3, 2014
 * Incremented version to 1.0.
 
 = 0.1 =
+* Release date: January 31, 2014
 * Initial release.
 
 == Upgrade Notice ==
